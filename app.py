@@ -1,0 +1,1 @@
+print('newly crated project from local machine')
